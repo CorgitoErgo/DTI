@@ -1,0 +1,27 @@
+const int leftPlate1 = 2;
+const int leftPlate2 = 3;
+const int rightPlate1 = 4;
+const int rightPlate2 = 5;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(leftPlate1, INPUT);
+  pinMode(leftPlate2, INPUT);
+  pinMode(rightPlate1, INPUT);
+  pinMode(rightPlate2, INPUT);
+}
+
+void loop() {
+  if(digitalRead(leftPlate1))
+    Serial.println("L1");
+  else if(digitalRead(leftPlate2))
+    Serial.println("L2");
+  else if(digitalRead(rightPlate1))
+    Serial.println("R1");
+  else if(digitalRead(rightPlate2))
+    Serial.println("R2");
+  else
+    Serial.println("NIL");
+  delay(100); // for connecting with python
+  Serial.flush(); // For connecting with python
+}
