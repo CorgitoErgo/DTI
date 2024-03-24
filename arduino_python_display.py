@@ -81,13 +81,14 @@ def create_gui():
     def arduino_handler():
         while True:
             data = ser.readline().decode().strip()
-            if data == "L1":
+            print(data)
+            if data == "A":
                 box_widgets[-2].config(bg="green")
-            elif data == "L2":
+            elif data == "C":
                 box_widgets[-4].config(bg="red")
-            elif data == "R1":
+            elif data == "B":
                 box_widgets[-1].config(bg="red")
-            elif data == "R2":
+            elif data == "D":
                 box_widgets[-3].config(bg="green")
             else:
                 for i in box_widgets:
