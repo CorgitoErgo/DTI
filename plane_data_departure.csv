@@ -1,0 +1,101 @@
+flight_date,flight_status,departure_airport,departure_timezone,departure_estimated,arrival_airport,arrival_timezone,airline_name
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:05:00+00:00,Suvarnabhumi International,Asia/Bangkok,Bangkok Airways
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:05:00+00:00,Suvarnabhumi International,Asia/Bangkok,SAS
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:05:00+00:00,Suvarnabhumi International,Asia/Bangkok,Virgin Australia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:10:00+00:00,Kaoshiung International Airport,Asia/Taipei,China Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:10:00+00:00,Suvarnabhumi International,Asia/Bangkok,Thai Airways International
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:20:00+00:00,Penang International,Asia/Kuala_Lumpur,AirAsia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:20:00+00:00,Phuket International,Asia/Bangkok,Scoot
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:25:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Vietnam Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:25:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Scoot
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:30:00+00:00,Auckland International,Pacific/Auckland,Air New Zealand
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:30:00+00:00,Phuket International,Asia/Bangkok,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:30:00+00:00,Tianjin Binhai International,Asia/Shanghai,Suparna Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:35:00+00:00,Kuala Lumpur International Airport (klia),Asia/Kuala_Lumpur,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:35:00+00:00,Suvarnabhumi International,Asia/Bangkok,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:40:00+00:00,Perth International,Australia/Perth,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:40:00+00:00,Ahmedabad,Asia/Kolkata,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:45:00+00:00,Kuala Lumpur International Airport (klia),Asia/Kuala_Lumpur,AirAsia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:45:00+00:00,Xianyang,Asia/Shanghai,Scoot
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:45:00+00:00,Chhatrapati Shivaji International (Sahar International),Asia/Kolkata,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:55:00+00:00,Tribhuvan International,Asia/Kathmandu,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T18:55:00+00:00,Hong Kong International,Asia/Hong_Kong,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:00:00+00:00,Juanda,Asia/Jakarta,Garuda Indonesia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:00:00+00:00,Penang International,Asia/Kuala_Lumpur,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:00:00+00:00,,,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:00:00+00:00,,,Silk Way West
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:10:00+00:00,Koh Samui,Asia/Bangkok,Emirates
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:10:00+00:00,Koh Samui,Asia/Bangkok,Etihad Airways
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T15:35:00+00:00,Ngurah Rai International,Asia/Makassar,Qantas
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:25:00+00:00,Kuala Lumpur International Airport (klia),Asia/Kuala_Lumpur,KLM
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:25:00+00:00,Juanda,Asia/Jakarta,United Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:25:00+00:00,Juanda,Asia/Jakarta,Vistara
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:20:00+00:00,Kuala Lumpur International Airport (klia),Asia/Kuala_Lumpur,Batik Air
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:15:00+00:00,Perth International,Australia/Perth,Qantas
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:20:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:20:00+00:00,Shanghai Pudong International,Asia/Shanghai,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:45:00+00:00,Soekarno-Hatta International,Asia/Jakarta,AirAsia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:45:00+00:00,Chhatrapati Shivaji International (Sahar International),Asia/Kolkata,Vistara
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:50:00+00:00,Penang International,Asia/Kuala_Lumpur,Jetstar Asia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:55:00+00:00,Bandaranaike International,Asia/Colombo,SriLankan Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:50:00+00:00,Christchurch International,Pacific/Auckland,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T19:55:00+00:00,San Francisco International,America/Los_Angeles,Singapore Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:15:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Garuda Indonesia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:40:00+00:00,Kuala Lumpur International Airport (klia),Asia/Kuala_Lumpur,Firefly
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:50:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Air New Zealand
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T13:45:00+00:00,Mingaladon,Asia/Rangoon,Sky Angkor
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:50:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Vistara
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T13:50:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Virgin Australia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:45:00+00:00,Hong Kong International,Asia/Hong_Kong,Gulf Air
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T16:55:00+00:00,Beijing Capital International,Asia/Shanghai,Air China LTD
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:10:00+00:00,Koh Samui,Asia/Bangkok,Singapore Airlines
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T16:30:00+00:00,Beijing Capital International,Asia/Shanghai,Singapore Airlines
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T16:25:00+00:00,Indira Gandhi International,Asia/Kolkata,Air New Zealand
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Ngurah Rai International,Asia/Makassar,Asiana Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Garuda Indonesia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Lufthansa
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Virgin Australia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:55:00+00:00,Suvarnabhumi International,Asia/Bangkok,Singapore Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:55:00+00:00,Phuket International,Asia/Bangkok,Air New Zealand
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T15:40:00+00:00,Penang International,Asia/Kuala_Lumpur,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T15:40:00+00:00,Hangzhou,Asia/Shanghai,Xiamen Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:30:00+00:00,Soekarno-Hatta International,Asia/Jakarta,United Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:30:00+00:00,Soekarno-Hatta International,Asia/Jakarta,SAS
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:30:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Garuda Indonesia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:25:00+00:00,Suvarnabhumi International,Asia/Bangkok,Bangkok Airways
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:10:00+00:00,Ninoy Aquino International,Asia/Manila,Philippine Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T12:10:00+00:00,Ninoy Aquino International,Asia/Manila,Air New Zealand
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T11:45:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Xiamen Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T11:45:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Vietnam Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T11:45:00+00:00,Soekarno-Hatta International,Asia/Jakarta,Singapore Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T11:20:00+00:00,Penang International,Asia/Kuala_Lumpur,Singapore Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T01:30:00+00:00,Seoul (Incheon),Asia/Seoul,Korean Air
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T15:45:00+00:00,Taiwan Taoyuan International (Chiang Kai Shek International),Asia/Taipei,Singapore Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T05:45:00+00:00,Sydney Kingsford Smith Airport,Australia/Sydney,FedEx
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T02:15:00+00:00,Haneda Airport,Asia/Tokyo,JAL
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T02:30:00+00:00,Seoul (Incheon),Asia/Seoul,T'Way Air
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T12:55:00+00:00,Hong Kong International,Asia/Hong_Kong,American Airlines
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T15:35:00+00:00,Ngurah Rai International,Asia/Makassar,Emirates
+2024-03-30,active,Singapore Changi,Asia/Singapore,2024-03-30T15:35:00+00:00,Ngurah Rai International,Asia/Makassar,Air France
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:20:00+00:00,Ngurah Rai International,Asia/Makassar,Garuda Indonesia
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:20:00+00:00,Ngurah Rai International,Asia/Makassar,United Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T16:20:00+00:00,Ngurah Rai International,Asia/Makassar,Vistara
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T08:30:00+00:00,Cairns,Australia/Brisbane,Singapore Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T14:35:00+00:00,Chongqing Jiangbei International,Asia/Shanghai,Chongqing Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Penang International,Asia/Kuala_Lumpur,Qantas
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Penang International,Asia/Kuala_Lumpur,Fiji Airways
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Penang International,Asia/Kuala_Lumpur,KLM
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:50:00+00:00,Ngurah Rai International,Asia/Makassar,Garuda Indonesia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:10:00+00:00,Seoul (Incheon),Asia/Seoul,Asiana Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:10:00+00:00,Seoul (Incheon),Asia/Seoul,Virgin Australia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,Ethiopian Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,Lufthansa
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,SWISS
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,SAS
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,Turkish Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Melbourne - Tullamarine Airport,Australia/Melbourne,Virgin Australia
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Franz Josef Strauss,Europe/Berlin,Aegean Airlines
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T00:25:00+00:00,Franz Josef Strauss,Europe/Berlin,Lufthansa
+2024-03-30,landed,Singapore Changi,Asia/Singapore,2024-03-30T06:10:00+00:00,Suvarnabhumi International,Asia/Bangkok,EVA Air
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:35:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Asiana Airlines
+2024-03-30,scheduled,Singapore Changi,Asia/Singapore,2024-03-30T17:35:00+00:00,Tan Son Nhat International,Asia/Ho_Chi_Minh,Asiana Airlines

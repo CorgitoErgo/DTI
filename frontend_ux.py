@@ -82,7 +82,7 @@ with col1:
             padding: 0.5em;
             border-radius: 1em;
 
-            p{
+            p{  
             font-size: 48px;
             color: whitesmoke;
             text-align: center;
